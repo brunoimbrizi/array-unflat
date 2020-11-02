@@ -1,0 +1,29 @@
+{
+  "name": "array-unflat",
+  "version": "1.0.0",
+  "description": "The opposite of Array.prototype.flat() with depth = 1.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Bruno Imbrizi",
+    "url": "https://github.com/brunoimbrizi"
+  },
+  "dependencies": {
+  },
+  "scripts": {},
+  "keywords": [
+    "array",
+    "unflat",
+    "unflatten",
+    "group",
+    "flat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brunoimbrizi/array-unflat.git"
+  },
+  "homepage": "https://github.com/brunoimbrizi/array-unflat",
+  "bugs": {
+    "url": "https://github.com/brunoimbrizi/array-unflat/issues"
+  }
+}
