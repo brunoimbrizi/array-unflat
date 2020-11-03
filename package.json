@@ -1,6 +1,6 @@
 {
   "name": "array-unflat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The opposite of Array.prototype.flat() with depth = 1.",
   "main": "index.js",
   "license": "MIT",
